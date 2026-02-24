@@ -1,5 +1,5 @@
 # Microffice
-
+---
 
 Repositori ini berisi ringkasan mengenai fitur-fitur utama dari Microsoft Office 2026 dan sistem proteksi data Information Rights Management (IRM).
 
