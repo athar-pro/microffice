@@ -1,5 +1,19 @@
 # Microffice
 ---
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://youtube.com/@worldszaza" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://github.io/athar-pro" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://microsoft.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
+  </a>
+</p>
+
+--- 
 
 Repositori ini berisi ringkasan mengenai fitur-fitur utama dari Microsoft Office 2026 dan sistem proteksi data Information Rights Management (IRM).
 
